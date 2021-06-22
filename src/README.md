@@ -2,13 +2,13 @@
 
 ## 陳星丞
 ### 資料檔
-__2014to2021_data.csv.zip__：在透過ptt_title所獲得的資料
+[2014to2021_data.csv.zip](./2014to2021_data.csv.zip)：在透過ptt_title所獲得的資料
 
-__2014to2021_year.csv.zip__：在透過年份標示後獲得的資料
+[2014to2021_year.csv.zip](./2014to2021_year.csv.zip)：在透過年份標示後獲得的資料
 
-__sentiment_ptt.csv.zip__：透過snownlp所獲得的資料
+[sentiment_ptt.csv.zip](./sentiment_ptt.csv.zip)：透過snownlp所獲得的資料
 ### 程式碼
-__snow_nlp.py__：對每日的標題進行情感分析
+[](./snow_nlp.py)：對每日的標題進行情感分析
 
 __ptt_title.py__：抓取資料
 
