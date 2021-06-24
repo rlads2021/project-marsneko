@@ -16,6 +16,7 @@ ptt八卦版情緒正面程度與發文頻率分析
 - [投影片](./G17_slide.pdf)
 - [書面報告](./G17_report.pdf)  
 - [專案網站](https://marsneko.github.io/project/)
+- [專題海報](./期末專題海報)
 
 
 
